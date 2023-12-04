@@ -1,6 +1,16 @@
 # Ninja Strike - Pinjam Dulu Seratus
 
-Selamat datang di permainan Ninja Strike yang dibikin oleh kelompok pinjam dulu seratus dengan tujuan untuk menyelesaikan tugas akhir laboratorium pengantar teknologi informasi. Cara kerja dari program mainnya sendiri terbagi menjadi beberapa fungsi, ada fungsi game, fungsi main menu, dan fungsi editor. cara kerja fungsi game adalah sebagai berikut,
+Selamat datang di permainan Ninja Strike yang dibikin oleh kelompok pinjam dulu seratus dengan tujuan untuk menyelesaikan tugas akhir laboratorium pengantar teknologi informasi. kelompok ini terdiri dari
+1. Achmad Hadi Rasyid
+2. Audrick Shafwat Hibattulah Hanif
+3. Desber Siregar
+4. Ivan Zachary Ramadhan
+5. Muhammad Riadh Adrian
+6. Rangga Yehezkiel Lumbantobing
+7. Rio Fajar Saragih
+
+
+Cara kerja dari program mainnya sendiri terbagi menjadi beberapa fungsi, ada fungsi game, fungsi main menu, dan fungsi editor. cara kerja fungsi game adalah sebagai berikut.
 
 ![Flowchart GamePlay NinjaStrike](./flowchart/Level%20Function%20Flowchart.png)
 

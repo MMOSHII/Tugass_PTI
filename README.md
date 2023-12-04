@@ -19,3 +19,6 @@ Cara kerja dari program mainnya sendiri terbagi menjadi beberapa fungsi, ada fun
 2. Buka terminal atau command prompt dan navigasi ke direktori di mana Anda menyimpan repositori ini.
 3. install liabry yang dibutuh kan dengan cara "pip install -r requirements.txt"
 3. Jalankan permainan dengan perintah: "python mainMenu.py"
+
+> [!WARNING]
+> Untuk soundnya belum diuploud, sehingga ada kemungkinan error yang ditimbulkan.

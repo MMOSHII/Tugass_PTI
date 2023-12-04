@@ -9,7 +9,7 @@ Selamat datang di permainan Ninja Strike yang dibikin oleh kelompok pinjam dulu 
 6. Rangga Yehezkiel Lumbantobing
 7. Rio Fajar Saragih
 
-
+## Cara Kerja
 Cara kerja dari program mainnya sendiri terbagi menjadi beberapa fungsi, ada fungsi game, fungsi main menu, dan fungsi editor. cara kerja fungsi game adalah sebagai berikut.
 
 ![Flowchart GamePlay NinjaStrike](./flowchart/Level%20Function%20Flowchart.png)

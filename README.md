@@ -1,6 +1,8 @@
 # Ninja Strike - Pinjam Dulu Seratus
 
 ![Main Menu NinjaStrike](./Assets/images/screenshot%20gameplay/Screenshot%20Main%20Menu.png)
+
+
 Selamat datang di permainan Ninja Strike yang dibikin oleh kelompok pinjam dulu seratus dengan tujuan untuk menyelesaikan tugas akhir laboratorium pengantar teknologi informasi. kelompok ini terdiri dari
 1. Achmad Hadi Rasyid
 2. Audrick Shafwat Hibattulah Hanif

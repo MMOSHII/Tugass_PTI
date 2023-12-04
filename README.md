@@ -2,7 +2,7 @@
 
 Selamat datang di permainan Ninja Strike yang dibikin oleh kelompok pinjam dulu seratus dengan tujuan untuk menyelesaikan tugas akhir laboratorium pengantar teknologi informasi.
 
-![Flowchart GamePlay NinjaStrike](./asset/screenshot.png)
+![Flowchart GamePlay NinjaStrike](./flowchart/Level%20Function%20Flowchart.png)
 
 ## Cara Bermain
 - Tekan tombol "SPACE" untuk membuat burung melompat.

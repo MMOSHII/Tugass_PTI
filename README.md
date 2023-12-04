@@ -1,4 +1,4 @@
-# Ninja Strike - Pinjam Dulu Seratis
+# Ninja Strike - Pinjam Dulu Seratus
 
 Selamat datang di permainan Ninja Strike yang dibikin oleh kelompok pinjam dulu seratus dengan tujuan untuk menyelesaikan tugas akhir laboratorium pengantar teknologi informasi. Cara kerja dari program mainnya sendiri terbagi menjadi beberapa fungsi, ada fungsi game, fungsi main menu, dan fungsi editor. cara kerja fungsi game adalah sebagai berikut,
 

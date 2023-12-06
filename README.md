@@ -4,8 +4,7 @@
 
 
 Selamat datang di permainan Ninja Strike yang dibikin oleh kelompok pinjam dulu seratus dengan tujuan untuk menyelesaikan tugas akhir laboratorium pengantar teknologi informasi. kelompok ini terdiri dari
-1. Achmad Hadi Rasyid
-2. Audrick Shafwat Hibattulah Hanif
+1. Audrick Shafwat Hibattulah Hanif
 3. Desber Siregar
 4. Ivan Zachary Ramadhan
 5. Muhammad Riadh Adrian
